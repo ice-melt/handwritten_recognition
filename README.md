@@ -1,2 +1,2 @@
-# HandWritingDistinguish
-tinymind手写汉字识别
+# Hand Writing Distinguish
+> tinymind手写汉字识别

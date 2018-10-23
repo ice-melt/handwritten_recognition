@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#忽略数据集和运行输出文件
+output/
+DATASET/
