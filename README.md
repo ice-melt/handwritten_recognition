@@ -34,3 +34,13 @@ inception网络的预处理比较全面，采用此网络的预处理过程对�
 
 ## finetune inception v4
 train_image_classifier.py
+
+
+## 展示
+相关代码
+
+- [upload_pictures.py](upload_pictures.py)
+- [templates/upload.html](templates/upload.html)
+- [templates/upload_ok.html](templates/upload_ok.html)
+
+使用 Flask 做一个简单的展示页面,参考代码见[参考的博客找不到了,后面找到了在记录把]()
