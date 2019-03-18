@@ -50,11 +50,11 @@ __测试集__: https://pan.baidu.com/s/1tzMYlrNY4XeMadipLCPzTw 密码: 4y9k
 	根目录下运行命令
 	
 	```Bash
-		# DATASET_DIR 是数据所在目录，需要下载和指定
-		DATASET_DIR=~/tmp/CalligraphyDistinguish/DATASET/train
-		python download_and_convert_data.py \
-		  --dataset_name=quiz \
-		  --dataset_dir=${DATASET_DIR}
+    # DATASET_DIR 是数据所在目录，需要下载和指定
+    DATASET_DIR=~/tmp/CalligraphyDistinguish/DATASET/train
+    python download_and_convert_data.py \
+      --dataset_name=quiz \
+      --dataset_dir=${DATASET_DIR}
 	```
 
 2. __数据预处理__ 相关代码
